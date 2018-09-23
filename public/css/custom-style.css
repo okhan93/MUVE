@@ -1,0 +1,9 @@
+select {
+background-color:rgba(0,0,0,0) !important;
+border-color:rgba(0,0,0,0) !important;
+}
+.navbar-inner {
+    background:transparent !important;
+}
+.slice--offset-top {
+padding-top:15rem !important;}

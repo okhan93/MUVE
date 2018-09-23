@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "BoroCode": 5, "BoroName": "Staten Island" }, "geometry": { "type": "Polygon", "coordinates": [ [  ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "BoroCode": 3, "BoroName": "Brooklyn" }, "geometry": { "type": "Polygon", "coordinates": [ [  ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "BoroCode": 4, "BoroName": "Queens" }, "geometry": { "type": "Polygon", "coordinates": [ [  ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "BoroCode": 1, "BoroName": "Manhattan" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [  ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "BoroCode": 2, "BoroName": "Bronx" }, "geometry": { "type": "Polygon", "coordinates": [ [  ] } }
+}
